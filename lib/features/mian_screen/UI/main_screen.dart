@@ -3,7 +3,7 @@ import 'dart:developer';
 import 'package:daily_tracker/features/cubit/task/task_cubit.dart';
 import 'package:daily_tracker/features/cubit/task/task_state.dart';
 import 'package:daily_tracker/features/mian_screen/UI/bottomNavigator.dart';
-import 'package:daily_tracker/features/mian_screen/task_list_view.dart';
+import 'package:daily_tracker/features/mian_screen/UI/task_list_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
